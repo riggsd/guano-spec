@@ -3,7 +3,7 @@
 
 GUANO is the Grand Unified Acoustic Notation Ontology, an extensible, open format for embedding metadata within bat acoustic recordings.
 
-This is the source repository where the metadata format specification *itself* is maintained. You probably want to see the actual [GUANO metadata format specification](doc/guano_specification.md): [guano_specification.md](guano_specification.md).
+This is the source repository where the metadata format specification *itself* is maintained. You probably want to see the actual [GUANO metadata format specification](guano_specification.md): [guano_specification.md](guano_specification.md).
 
 The [GUANO project homepage](http://guano-md.org) is a friendlier site where you'll find information on using the metadata, which products support it, etc. See: http://guano-md.org
 
