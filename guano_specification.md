@@ -351,12 +351,11 @@ fields in a compliant GUANO file.
 Specification History
 ---------------------
 
-2017-03-19 | 1.0.1 | Describe embedding GUANO metadata within an Anabat file.
-
 2017-01-15 | 1.0.0 | Updated GUANO specification status to reflect production nature of format.
                      Allow multiple values for `Species Auto ID` and `Species Manual ID`.
                      Added `Serial` and `Original Filename` fields.
                      Removed redundant `GUANO|Size` field.
+                     Describe embedding GUANO metadata within an Anabat file.
                      Re-added `WA` vendor namespace for Wildlife Acoustics.
 
 2016-05-15 | 0.0.4 | Added `BATREC` vendor namespace for Android Bat Recorder by Bill Kraus. 
