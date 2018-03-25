@@ -232,7 +232,7 @@ this list so that it isn't accidentally used by another manufacturer.
   SonoBat
 
 **WA**  
-  Wildlife Acoustics
+  Wildlife Acoustics - [vendor namespace documentation](https://www.wildlifeacoustics.com/SCHEMA/GUANO.html)
 
 
 Example
