@@ -224,6 +224,9 @@ this list so that it isn't accidentally used by another manufacturer.
 
 **MSFT**  
   Myotisoft
+  
+**NABat**  
+  North American Bat Monitoring Program
 
 **PET**  
   Pettersson
