@@ -216,9 +216,6 @@ this list so that it isn't accidentally used by another manufacturer.
 **Anabat**  
   Titley Scientific
 
-**AM**  
-  Open Acoustic Devices
-
 **BAT**  
   Binary Acoustic Technologies
   
@@ -231,6 +228,9 @@ this list so that it isn't accidentally used by another manufacturer.
 **NABat**  
   North American Bat Monitoring Program
 
+**OAD**  
+  Open Acoustic Devices
+  
 **PET**  
   Pettersson
 
