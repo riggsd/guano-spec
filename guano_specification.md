@@ -228,6 +228,9 @@ this list so that it isn't accidentally used by another manufacturer.
 **NABat**  
   North American Bat Monitoring Program
 
+**OAD**  
+  Open Acoustic Devices
+  
 **PET**  
   Pettersson
 
