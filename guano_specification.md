@@ -220,7 +220,7 @@ this list so that it isn't accidentally used by another manufacturer.
   Binary Acoustic Technologies
   
 **BATREC**  
-  Bat Recorder by Bill Kraus
+  Bat Recorder by Bill Kraus - [vendor namespace documentation](https://gitlab.com/f.x.haering/batrecorder3/-/blob/main/guano_spec_ns_BATREC.md)
 
 **MSFT**  
   Myotisoft
