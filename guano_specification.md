@@ -222,10 +222,10 @@ this list so that it isn't accidentally used by another manufacturer.
 **BATREC**  
   Android Bat Recorder - [vendor namespace documentation](https://gitlab.com/f.x.haering/batrecorder3/-/blob/main/guano_spec_ns_BATREC.md)
 
-**ecoObs**
+**ecoObs**  
   ecoObs GmbH
 
-**MSFT**  
+**Myotisoft**  
   Myotisoft
   
 **NABat**  
