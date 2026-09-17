@@ -214,7 +214,7 @@ this list so that it isn't accidentally used by another manufacturer.
   Reserved namespace for user-defined fields.
 
 **Anabat**  
-  Titley Scientific
+  Titley Scientific - deprecated, superseded by `TS`
 
 **BAT**  
   Binary Acoustic Technologies
@@ -239,6 +239,9 @@ this list so that it isn't accidentally used by another manufacturer.
 
 **SB**  
   SonoBat
+
+**TS**  
+  Titley Scientific
 
 **WA**  
   Wildlife Acoustics - [vendor namespace documentation](https://www.wildlifeacoustics.com/SCHEMA/GUANO.html)
