@@ -222,6 +222,9 @@ this list so that it isn't accidentally used by another manufacturer.
 **BATREC**  
   Bat Recorder by Bill Kraus
 
+**ecoObs**
+  ecoObs GmbH
+
 **MSFT**  
   Myotisoft
   
